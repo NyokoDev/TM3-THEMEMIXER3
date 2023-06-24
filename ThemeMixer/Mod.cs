@@ -16,7 +16,7 @@ namespace ThemeMixer3
 {
     public class Mod : IUserMod, ILoadingExtension
     {
-        private const string HarmonyID = "com.nyoko.ThemeMixer3";
+        private const string HarmonyID = "com.nyoko.thememixer3";
 
         public string Name => "Theme Mixer 3";
 
